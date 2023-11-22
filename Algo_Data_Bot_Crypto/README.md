@@ -45,15 +45,5 @@ We welcome contributions. If you have improvements or new features in mind, feel
 Disclaimer
 This bot is for educational and research purposes only. We are not responsible for any financial losses incurred from using this software.
 
-License
-Distributed under the MIT License.
 
-vbnet
-Copy code
-
-This format should maintain the correct formatting when pasted into your repository's README file. Let me know if there's anything else you need!
-User
-put everything inside a code block just want to paste it
-GPT
-Certainly! Here's the README content for the "Algo Data Bot - Crypto" entirely enclosed in a code block for easy copy-pasting:
 
