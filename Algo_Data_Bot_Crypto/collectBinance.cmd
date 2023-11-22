@@ -1,0 +1,2 @@
+python ./testBinance.py
+pasue
