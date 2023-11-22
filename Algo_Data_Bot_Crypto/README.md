@@ -39,6 +39,8 @@ main.py: Entry point for the trading bot.
 binance/: Modules for handling Binance exchange interactions.
 tradeStrategy/: Contains various trading strategy implementations.
 models/: Machine learning models for market prediction.
+
+
 Contributing
 We welcome contributions. If you have improvements or new features in mind, feel free to fork the repository and submit a pull request.
 
