@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Algo Data Bot - Crypto
 
 ## Overview
